@@ -4,6 +4,7 @@ In todays class we have learned about github.
 We have learned that have to make a github repository.
 For making and pushing a github repository we have to perform the following three 3 steps.
 git clone
-code.
+git code.
 git commit -m "message"
 git push
+git push -f (incase of force push)
